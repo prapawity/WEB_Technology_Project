@@ -357,7 +357,8 @@ img{
 .templateux-cta .words-1 { 
 	opacity: 1; 
 	visibility: visible; 
-	top: 0; 
+	top: 0;
+	font-family: 'Srisakdi', cursive;
 }
 
 .templateux-cta .words-2 { 
