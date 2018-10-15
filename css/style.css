@@ -35,7 +35,7 @@ a:hover, a:active, a:focus {
 img{
 	vertical-align: middle;
 	border-style: none;
-	max-width: 200px;
+	/* width: 200px; */
 }
 
 .templateux-navbar { 
@@ -742,6 +742,7 @@ textarea.form-control {
 	padding: 7em 0; 
 	background: #f7f7f7; 
 }
+
 
 .testimony blockquote { 
 	font-size: 24px; 
