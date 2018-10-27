@@ -19,7 +19,6 @@ body {
 	color: #5d5e5f;
 	font-weight: 600;
 	font-size: 15px;
-
 }
 ::-moz-selection { 
 	background: yellow; 
@@ -103,9 +102,9 @@ img{
 
 .templateux-navbar .templateux-menu ul li a { 
 	margin-right: 20px; 
-	font-size: 13px; 
+	font-size: 16px; 
 	text-transform: uppercase; 
-	letter-spacing: .2em; 
+	letter-spacing: .1em; 
 	color: #000; 
 	position: relative; 
 	padding-bottom: 5px; 
@@ -181,7 +180,7 @@ img{
 }
 
 .templateux-navbar.navbar-light .templateux-menu ul li a { 
-	color: #fff; 
+	color: rgb(0, 0, 0); 
 }
 
 .menu-open .templateux-navbar { 
