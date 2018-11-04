@@ -1,7 +1,7 @@
 body { 
 	font-size: 16.5px; 
 	line-height: 1.8; 
-	color: #6c757d; 
+	color: #414344; 
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Mali', cursive, 'Bai Jamjuree', sans-serif;
 	font-weight: 550;
 }
@@ -279,8 +279,8 @@ img{
 }
 
 .templateux-hero, .intro { 
-	height: 90vh; 
-	min-height: 500px; 
+	height: 50vh; 
+	min-height: 400px; 
 }
 
 .templateux-hero h1, .intro h1 { 
@@ -297,7 +297,7 @@ img{
 
 .templateux-portfolio-overlap { 
 	position: relative; 
-	margin-top: 100px; 
+	margin-top: 10px; 
 }
 
 @media (max-width: 991.98px) { 
