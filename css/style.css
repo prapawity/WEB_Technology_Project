@@ -62,7 +62,8 @@ img{
 
 .templateux-navbar .toggle-menu { 
 	z-index: 9999; 
-	position: relative; 
+	/* position: relative;  */
+	position: fixed;
 	top: -13px; 
 	display: none; 
 }
@@ -101,14 +102,16 @@ img{
 }
 
 .templateux-navbar .templateux-menu ul li a { 
-	margin-right: 20px; 
+	margin-right: 10px; 
 	font-size: 16px; 
 	text-transform: uppercase; 
 	letter-spacing: .1em; 
-	color: #000; 
+	color: rgb(0, 0, 0); 
 	position: relative; 
 	padding-bottom: 5px; 
-	display: block; }
+	display: block;
+	font-weight: 600;
+ }
 
 .templateux-navbar .templateux-menu ul li a:before { 
 	content: ""; 
