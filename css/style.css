@@ -242,7 +242,8 @@ img{
 	background-repeat: no-repeat; 
 	background-position: center center; 
 	position: relative; 
-	overflow: hidden; 
+	overflow: hidden;
+	background-color: rgba(0,0,0,0.06);
 }
 
 .templateux-hero .lead { 
@@ -296,7 +297,8 @@ img{
 
 .templateux-hero, .intro { 
 	height: 50vh; 
-	min-height: 400px; 
+	min-height: 400px;
+	margin-top: 1%;
 }
 
 .templateux-hero h1, .intro h1 { 
@@ -313,7 +315,7 @@ img{
 
 .templateux-portfolio-overlap { 
 	position: relative; 
-	margin-top: 10px; 
+	margin-top: 2.5%; 
 }
 
 @media (max-width: 991.98px) { 
