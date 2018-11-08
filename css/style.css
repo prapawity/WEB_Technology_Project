@@ -243,7 +243,7 @@ img{
 	background-position: center center; 
 	position: relative; 
 	overflow: hidden;
-	background-color: rgba(0,0,0,0.06);
+	background-color: rgba(0, 0, 0, 0.103);
 }
 
 .templateux-hero .lead { 
