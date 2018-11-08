@@ -546,6 +546,7 @@ img{
 .templateux-footer { 
 	padding: 1em 0; 
 	border-top: 1px solid #F4F4F4; 
+	padding-left: 0px;
 }
 
 .templateux-footer .container-fluid { 
